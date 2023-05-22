@@ -1,1 +1,3 @@
 file 1
+
+new redact with new words 
